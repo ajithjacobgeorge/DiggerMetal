@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0B0D11" />
+  <circle cx="256" cy="256" r="196" stroke="#D4AF37" stroke-opacity="0.32" stroke-width="10" />
+  <path d="M168 206H344L382 308H130L168 206Z" fill="url(#goldBody)" />
+  <path d="M188 218H324L344 260H168L188 218Z" fill="#FDE68A" fill-opacity="0.72" />
+  <rect x="156" y="334" width="200" height="22" rx="11" fill="#CBD5E1" />
+  <defs>
+    <linearGradient id="goldBody" x1="130" y1="206" x2="382" y2="308" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2D06B" />
+      <stop offset="0.55" stop-color="#D4AF37" />
+      <stop offset="1" stop-color="#9A7611" />
+    </linearGradient>
+  </defs>
+</svg>

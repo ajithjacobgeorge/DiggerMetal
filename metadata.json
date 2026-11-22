@@ -1,0 +1,8 @@
+{
+  "name": "AurumPulse",
+  "description": "Real-time Gold and Silver bullion price ticker with India 24K/22K landed rates, 1-year historical trend analysis, INR-USD converter, portfolio P&L tracker, and push price alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
